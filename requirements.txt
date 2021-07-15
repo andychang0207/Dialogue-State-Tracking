@@ -1,0 +1,7 @@
+torch=1.8.0
+datasets=1.8.0
+transformers=4.5.0
+seqeval=1.2.2
+tqdm
+accelerate=0.3.0
+jsonlines
